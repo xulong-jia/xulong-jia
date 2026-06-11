@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Xu Long Jia 👋
 
-<!--
-**xulong-jia/xulong-jia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master of Information Technology student at UNSW, focusing on Python development, AI applications, and computer vision.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Programming: Python, JavaScript, SQL
+- AI / ML: OpenAI API, YOLOv8, Computer Vision
+- Web Development: React, Node.js, Flask / FastAPI
+- Tools: Git, GitHub, VS Code, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+- Building AI application projects for my portfolio
+- Improving Python backend development skills
+- Preparing for software development and AI-related internship opportunities
+
+## Featured Projects
+- CareerAgent: AI-powered job application and interview preparation platform
+- YOLOv8 Object Detection System: Vehicle and pedestrian detection project
+
+## Contact
+- Email: xulongjia556@gmail.com
