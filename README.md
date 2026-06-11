@@ -1,6 +1,6 @@
 # Hi, I'm Xu Long Jia 👋
 
-I'm a Master of Information Technology student at UNSW, focusing on Python development, AI applications, and computer vision.
+I'm a Master of Information Technology student at UNSW, focusing on Python backend development, AI applications, and computer vision.
 
 ## Tech Stack
 - Programming: Python, JavaScript, SQL
